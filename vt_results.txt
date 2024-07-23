@@ -7581,3 +7581,291 @@ Detailed Results:
     Result: clean site
 
 URL: https://www.youtube.com/watch?v=KtTe_ckT3iM - URL NOT FOUND
+URL: http://testphp.vulnweb.com
+Positives: 1/94
+Scan Date: 2024-07-22 07:46:01
+Detailed Results:
+  Scanner: 0xSI_f33d
+    Detected: False
+    Result: unrated site
+  Scanner: ADMINUSLabs
+    Detected: False
+    Result: clean site
+  Scanner: AILabs (MONITORAPP)
+    Detected: False
+    Result: clean site
+  Scanner: Abusix
+    Detected: False
+    Result: clean site
+  Scanner: Acronis
+    Detected: False
+    Result: clean site
+  Scanner: AlienVault
+    Detected: False
+    Result: clean site
+  Scanner: AlphaSOC
+    Detected: False
+    Result: unrated site
+  Scanner: Antiy-AVL
+    Detected: False
+    Result: clean site
+  Scanner: ArcSight Threat Intelligence
+    Detected: False
+    Result: unrated site
+  Scanner: Artists Against 419
+    Detected: False
+    Result: clean site
+  Scanner: AutoShun
+    Detected: False
+    Result: unrated site
+  Scanner: Bfore.Ai PreCrime
+    Detected: False
+    Result: unrated site
+  Scanner: BitDefender
+    Detected: False
+    Result: clean site
+  Scanner: Bkav
+    Detected: False
+    Result: unrated site
+  Scanner: BlockList
+    Detected: False
+    Result: clean site
+  Scanner: Blueliv
+    Detected: False
+    Result: clean site
+  Scanner: CINS Army
+    Detected: False
+    Result: clean site
+  Scanner: CMC Threat Intelligence
+    Detected: False
+    Result: clean site
+  Scanner: CRDF
+    Detected: True
+    Result: malicious site
+  Scanner: CSIS Security Group
+    Detected: False
+    Result: unrated site
+  Scanner: Certego
+    Detected: False
+    Result: clean site
+  Scanner: Chong Lua Dao
+    Detected: False
+    Result: clean site
+  Scanner: Cluster25
+    Detected: False
+    Result: unrated site
+  Scanner: Criminal IP
+    Detected: False
+    Result: clean site
+  Scanner: CyRadar
+    Detected: False
+    Result: clean site
+  Scanner: Cyan
+    Detected: False
+    Result: unrated site
+  Scanner: Cyble
+    Detected: False
+    Result: clean site
+  Scanner: DNS8
+    Detected: False
+    Result: clean site
+  Scanner: Dr.Web
+    Detected: False
+    Result: clean site
+  Scanner: ESET
+    Detected: False
+    Result: clean site
+  Scanner: ESTsecurity
+    Detected: False
+    Result: clean site
+  Scanner: EmergingThreats
+    Detected: False
+    Result: clean site
+  Scanner: Emsisoft
+    Detected: False
+    Result: clean site
+  Scanner: Ermes
+    Detected: False
+    Result: unrated site
+  Scanner: Feodo Tracker
+    Detected: False
+    Result: clean site
+  Scanner: Forcepoint ThreatSeeker
+    Detected: False
+    Result: clean site
+  Scanner: Fortinet
+    Detected: False
+    Result: clean site
+  Scanner: G-Data
+    Detected: False
+    Result: clean site
+  Scanner: Google Safebrowsing
+    Detected: False
+    Result: clean site
+  Scanner: GreenSnow
+    Detected: False
+    Result: clean site
+  Scanner: Gridinsoft
+    Detected: False
+    Result: unrated site
+  Scanner: Heimdal Security
+    Detected: False
+    Result: clean site
+  Scanner: Hunt.io Intelligence
+    Detected: False
+    Result: unrated site
+  Scanner: IPsum
+    Detected: False
+    Result: clean site
+  Scanner: Juniper Networks
+    Detected: False
+    Result: clean site
+  Scanner: Kaspersky
+    Detected: False
+    Result: clean site
+  Scanner: Lionic
+    Detected: False
+    Result: clean site
+  Scanner: Lumu
+    Detected: False
+    Result: unrated site
+  Scanner: MalwarePatrol
+    Detected: False
+    Result: clean site
+  Scanner: MalwareURL
+    Detected: False
+    Result: unrated site
+  Scanner: Malwared
+    Detected: False
+    Result: clean site
+  Scanner: Netcraft
+    Detected: False
+    Result: unrated site
+  Scanner: OpenPhish
+    Detected: False
+    Result: clean site
+  Scanner: PREBYTES
+    Detected: False
+    Result: clean site
+  Scanner: PhishFort
+    Detected: False
+    Result: unrated site
+  Scanner: PhishLabs
+    Detected: False
+    Result: unrated site
+  Scanner: Phishing Database
+    Detected: False
+    Result: clean site
+  Scanner: Phishtank
+    Detected: False
+    Result: clean site
+  Scanner: PrecisionSec
+    Detected: False
+    Result: unrated site
+  Scanner: Quick Heal
+    Detected: False
+    Result: clean site
+  Scanner: Quttera
+    Detected: False
+    Result: clean site
+  Scanner: Rising
+    Detected: False
+    Result: clean site
+  Scanner: SCUMWARE.org
+    Detected: False
+    Result: clean site
+  Scanner: SOCRadar
+    Detected: False
+    Result: unrated site
+  Scanner: SafeToOpen
+    Detected: False
+    Result: unrated site
+  Scanner: Sangfor
+    Detected: False
+    Result: clean site
+  Scanner: Sansec eComscan
+    Detected: False
+    Result: unrated site
+  Scanner: Scantitan
+    Detected: False
+    Result: clean site
+  Scanner: Seclookup
+    Detected: False
+    Result: clean site
+  Scanner: Snort IP sample list
+    Detected: False
+    Result: clean site
+  Scanner: Sophos
+    Detected: False
+    Result: clean site
+  Scanner: Spam404
+    Detected: False
+    Result: clean site
+  Scanner: StopForumSpam
+    Detected: False
+    Result: clean site
+  Scanner: Sucuri SiteCheck
+    Detected: False
+    Result: clean site
+  Scanner: ThreatHive
+    Detected: False
+    Result: clean site
+  Scanner: Threatsourcing
+    Detected: False
+    Result: clean site
+  Scanner: Trustwave
+    Detected: False
+    Result: clean site
+  Scanner: URLQuery
+    Detected: False
+    Result: unrated site
+  Scanner: URLhaus
+    Detected: False
+    Result: clean site
+  Scanner: Underworld
+    Detected: False
+    Result: unrated site
+  Scanner: VIPRE
+    Detected: False
+    Result: unrated site
+  Scanner: VX Vault
+    Detected: False
+    Result: clean site
+  Scanner: Viettel Threat Intelligence
+    Detected: False
+    Result: clean site
+  Scanner: ViriBack
+    Detected: False
+    Result: clean site
+  Scanner: Webroot
+    Detected: False
+    Result: clean site
+  Scanner: Xcitium Verdict Cloud
+    Detected: False
+    Result: unrated site
+  Scanner: Yandex Safebrowsing
+    Detected: False
+    Result: clean site
+    Detail: http://yandex.com/infected?l10n=en&url=http://testphp.vulnweb.com/
+  Scanner: ZeroCERT
+    Detected: False
+    Result: clean site
+  Scanner: ZeroFox
+    Detected: False
+    Result: unrated site
+  Scanner: alphaMountain.ai
+    Detected: False
+    Result: clean site
+  Scanner: benkow.cc
+    Detected: False
+    Result: clean site
+  Scanner: desenmascara.me
+    Detected: False
+    Result: clean site
+  Scanner: malwares.com URL checker
+    Detected: False
+    Result: clean site
+  Scanner: securolytics
+    Detected: False
+    Result: clean site
+
