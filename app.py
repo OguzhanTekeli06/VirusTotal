@@ -11,9 +11,6 @@ with open('apis.txt', 'r') as f:
 with open('urls.txt', 'r') as f:
 	urls = [line.rstrip('\n') for line in open('urls.txt')]
 
-# print(apikeys)
-# print(urls)
-
 def process_response(response_json, site):
     if 'positives' in response_json:
         positives = response_json['positives']
