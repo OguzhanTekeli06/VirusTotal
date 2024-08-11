@@ -1,1 +1,1 @@
-Burada amacımız virustotalin ücretsiz apisinin dakikada dört request sınırını elde ettiğimiz apileri sra ile dönerek aşmaktır.
+Burada amacımız virustotalin ücretsiz apisinin dakikada dört request sınırını elde ettiğimiz apileri sıra ile dönerek aşmaktır.
