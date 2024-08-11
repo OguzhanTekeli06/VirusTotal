@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-api_key = "api keyinizi buraya yazın"
+
 url = "https://www.virustotal.com/vtapi/v2/url/report"
 
 with open('apis.txt', 'r') as f:
@@ -38,7 +38,7 @@ def process_response(response_json, site):
 for apis in apikeys:
     for i in range(0,4):
         for site in urls:
-            params = {'apikey': api_key, 'resource': site}
+            params = {'apikey': apis, 'resource': site}
             response = requests.get(url, params=params)
             response_json = response.json()
             print(json.dumps(response_json, indent=4))
