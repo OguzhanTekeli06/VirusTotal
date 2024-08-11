@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-api_key = "adb34e2491e6eb3fbe5c1d142e9f749015af3afcb07071864696c0b53fa0dab6"
+api_key = "api keyinizi buraya yazın"
 url = "https://www.virustotal.com/vtapi/v2/url/report"
 
 with open('apis.txt', 'r') as f:
